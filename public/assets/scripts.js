@@ -1,4 +1,4 @@
-const url = "http://socket.io/";
+const url = "";
 const socket = io.connect(url);
 const chat = [];
 
