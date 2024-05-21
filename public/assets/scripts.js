@@ -1,4 +1,4 @@
-const url = "http://localhost:4001/";
+const url = "http://socket.io/";
 const socket = io.connect(url);
 const chat = [];
 
